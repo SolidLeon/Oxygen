@@ -1,0 +1,19 @@
+Items
+  Strawberry
+  Strawberry seeds
+Factories
+  Strawberry field
+  Strawberry cake factory
+  Conditor shop
+  Gardener shop
+  
+Chain:
+1) Strawberry field uses strawberry seeds to produce strawberries and some seeds
+1.1) Seeds can be reused
+1.2) Seeds and strawberries can be but into auction house
+2) Gardener Shop
+2.1) Buys seeds from AH to sell them directly to NPC, to make profit
+3) Strawberry Cake Factory buys strawberries from AH to produce strawberry cakes
+3.1) Cakes can be put into auction house
+4) Conditor Shop buys strawberries from AH
+4.1) Sells cakes directly to NPC, to make profit
